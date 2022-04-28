@@ -8,8 +8,8 @@
 
 ## _DATAPORTS_ wiki guide
 
-- [Basic Code](https://test-boret-documentation.readthedocs.io/test_initial_folder/basic_code.html#)
-    - [Introduction](https://test-boret-documentation.readthedocs.io/test_initial_folder/basic_code.html#introduction)
-    - [Context](https://test-boret-documentation.readthedocs.io/test_initial_folder/basic_code.html#context)
-    - [Architecture](https://test-boret-documentation.readthedocs.io/test_initial_folder/basic_code.html#architecture)
+- [Basic Code](https://test-doc_dataports.readthedocs.io/test_initial_folder/basic_code.html#)
+    - [Introduction](https://test-doc_dataports.readthedocs.io/test_initial_folder/basic_code.html#introduction)
+    - [Context](https://test-doc_dataports.readthedocs.io/test_initial_folder/basic_code.html#context)
+    - [Architecture](https://test-doc_dataports.readthedocs.io/test_initial_folder/basic_code.html#architecture)
 
